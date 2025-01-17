@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @svalerii02
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning things about parsing and web-scraping. Also familiar with creating of telegram- and discord-bots.
-- 💞️ I’m looking to collaborate on scripts for web-space which will be doing parsing and collecting data.
-- 📫 How to reach me: southpowered@gmail.com
+
